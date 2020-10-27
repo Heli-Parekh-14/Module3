@@ -8,6 +8,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            /* ----------------Part-2-------------------
+            */
             int x = 5;
             int y = 10;
 
