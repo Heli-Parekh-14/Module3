@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Reflection;
 
 //delegate declaration-Delegate declaration determines the methods 
@@ -12,6 +12,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            /* ----------------Part-5-------------------
+            */
             //reflection-Reflection objects are used for obtaining type information at runtime. The classes
             //that give access to the metadata of a running program are in the System.Reflection namespace.
             //It allows view attribute information at runtime.
